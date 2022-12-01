@@ -1,0 +1,37 @@
+.miniHeader{
+  width: 100%;
+  min-height: 50px;
+  background-color: #232E3E;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  column-gap: 10px;
+}
+.menu{
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  background-color: transparent;
+  border: none;
+  color: #fff;
+  font-weight: 500;
+  cursor: pointer;
+}
+.miniHeaderLinks{
+  color: var(--primary-light-color);
+  border: 1px solid transparent;
+  padding: 3px 7px;
+  border-radius: 3px;
+}
+.miniHeaderLinks:hover{
+  border: 1px solid #fff;
+}
+@media only screen and (max-width:600px){
+  .miniHeader{
+    overflow-x: auto;
+  }
+  .miniHeaderLinks{
+    display: block;
+    width: 145px;
+  }
+}

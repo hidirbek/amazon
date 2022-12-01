@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Digital Content & Devices",
+    "sidebarMainGroup": [
+      {
+        "mainTitle": "Amazon Music",
+        "doubleSidebar": "hello world",
+        "doubleSidebar2": "hello world2",
+        "doubleSidebar3": "hello world"
+      },
+      {
+        "mainTitle": "Kindle E - readers & Books",
+        "doubleSidebar": "hello world",
+        "doubleSidebar2": "hello world2",
+        "doubleSidebar3": "hello world"
+      },
+      {
+        "mainTitle": "Amazon Appstore",
+        "doubleSidebar": "hello world",
+        "doubleSidebar2": "hello world2",
+        "doubleSidebar3": "hello world"
+      }
+    ]
+  },
+  {
+    "title": "Shop By Department",
+    "sidebarMainGroup": [
+      {
+        "mainTitle": "Electronics"
+      },
+      {
+        "mainTitle": "Computers"
+      },
+      {
+        "mainTitle": " Smart Home"
+      },
+      {
+        "mainTitle": "Arts & Crafts"
+      },
+      {
+        "mainTitle": "Automotive"
+      },
+      {
+        "mainTitle": "Baby"
+      },
+      {
+        "mainTitle": "Beauty and personal care"
+      },
+      {
+        "mainTitle": "Women's Fashion"
+      },
+      {
+        "mainTitle": "Men's Fashion"
+      },
+      {
+        "mainTitle": "Girls' Fashion"
+      },
+      {
+        "mainTitle": "Boys' Fashion"
+      },
+      {
+        "mainTitle": "Health and Household"
+      },
+      {
+        "mainTitle": "Home and Kitchen"
+      },
+      {
+        "mainTitle": "Industrial and Scientific"
+      },
+      {
+        "mainTitle": "Luggage"
+      },
+      {
+        "mainTitle": "Movies & Television"
+      },
+      {
+        "mainTitle": "Pet supplies"
+      },
+      {
+        "mainTitle": "Software"
+      },
+      {
+        "mainTitle": "Sports and Outdoors"
+      },
+      {
+        "mainTitle": "Tools & Home Improvement"
+      },
+      {
+        "mainTitle": " Toys and Games"
+      },
+      {
+        "mainTitle": "Video Games"
+      }
+    ]
+  },
+  {
+    "title": "Programs & Features",
+    "sidebarMainGroup": [
+      {
+        "mainTitle": "Gift Cards"
+      },
+      {
+        "mainTitle": "#FoundItOnAmazon"
+      },
+      {
+        "mainTitle": "Amazon Live"
+      },
+      {
+        "mainTitle": "International Shopping"
+      },
+      {
+        "mainTitle": "Amazon Second Chance"
+      }
+    ]
+  }
+]

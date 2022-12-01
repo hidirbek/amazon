@@ -1,0 +1,26 @@
+.main{
+  max-width: 1440px;
+  padding: 0 20px;
+  margin: -230px auto 0 auto;
+  z-index: 2;
+  position: relative;
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(4, 1fr);
+}
+@media only screen and (max-width:1300px) {
+  .main{
+    grid-template-columns: repeat(3, auto);
+  }
+}
+@media only screen and (max-width:850px) {
+  .main{
+    grid-template-columns: repeat(2, auto);
+  }
+}
+@media only screen and (max-width:580px) {
+  .main{
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
